@@ -1,0 +1,40 @@
+{
+    "grade": [
+        {
+            "id": "1",
+            "dia": "SEGUNDA-FEIRA",
+            "materia": "Trabalho de Conclusao de Curso 2",
+            "carga-horaria": "30 Horas",
+            "horario": "16:40 as 18:20"
+        },
+        {
+            "id": "2",
+            "dia": "SEGUNDA-FEIRA",
+            "materia": "OPT D",
+            "carga-horaria": "60 Horas",
+            "horario": "18:00 as 20:00 / 20:20 as 22:00"
+        },
+        {
+            "id": "3",
+            "dia": "TERCA-FEIRA",
+            "materia": "Meio Ambiente",
+            "carga-horaria": "60 Horas",
+            "horario": "18:00 as 20:00 / 20:20 as 22:00"
+        },
+        {
+            "id": "4",
+            "dia": "QUARTA-FEIRA",
+            "materia": "Sistemas de Apoio e Decisao",
+            "carga-horaria": "60 Horas",
+            "horario": "18:00 as 20:00 / 20:20 as 22:00"
+        },
+        {
+            "id": "5",
+            "dia": "QUINTA-FEIRA",
+            "materia": "OPT C",
+            "carga-horaria": "60 Horas",
+            "horario": "18:00 as 20:00 / 20:20 as 22:00"
+        }
+        
+    ]
+}

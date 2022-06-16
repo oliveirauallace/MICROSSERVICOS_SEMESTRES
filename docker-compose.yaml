@@ -1,0 +1,91 @@
+version: '3'
+
+services:
+  primeiro_semestre:
+    image: servnoticias
+    build: .
+    volumes:
+      - "./servicos/primeiro:/servicos"
+    command: python3 servico.py
+    
+    ports:
+      - "5001:5000"
+    
+  segundo_semestre:
+    image: servnoticias
+    build: .
+    volumes:
+      - "./servicos/segundo:/servicos"
+    command: python3 servico.py
+    
+    ports:
+      - "5002:5000"
+
+  terceiro_semestre:
+    image: servnoticias
+    build: .
+    volumes:
+      - "./servicos/terceiro:/servicos"
+    command: python3 servico.py
+    
+    ports:
+      - "5003:5000"
+
+  quarto_semestre:
+    image: servnoticias
+    build: .
+    volumes:
+      - "./servicos/quarto:/servicos"
+    command: python3 servico.py
+    
+    ports:
+      - "5004:5000"
+  
+  quinto_semestre:
+    image: servnoticias
+    build: .
+    volumes:
+      - "./servicos/quinto:/servicos"
+    command: python3 servico.py
+    
+    ports:
+      - "5005:5000"
+
+  sexto_semestre:
+    image: servnoticias
+    build: .
+    volumes:
+      - "./servicos/sexto:/servicos"
+    command: python3 servico.py
+    
+    ports:
+      - "5006:5000"
+
+  setimo_semestre:
+    image: servnoticias
+    build: .
+    volumes:
+      - "./servicos/setimo:/servicos"
+    command: python3 servico.py
+    
+    ports:
+      - "5007:5000"
+
+  oitavo_semestre:
+    image: servnoticias
+    build: .
+    volumes:
+      - "./servicos/oitavo:/servicos"
+    command: python3 servico.py
+    
+    ports:
+      - "5008:5000"
+  
+  banco_volatil:
+    image: memcached
+    hostname: banco_volatil
+    ports:
+      - "11211:11211"
+  
+ 
+

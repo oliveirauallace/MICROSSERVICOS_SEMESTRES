@@ -1,0 +1,54 @@
+{
+    "grade": [
+        {
+            "id": "1",
+            "dia": "SEGUNDA-FEIRA",
+            "materia": "Gestão de Projetos",
+            "carga-horaria": "60 Horas",
+            "horario": "18:00 as 20:00 / 20:20 as 22:00"
+        },
+        {
+            "id": "2",
+            "dia": "TERCA-FEIRA",
+            "materia": "Trabalho de Conclusão de Curso 1",
+            "carga-horaria": "60 Horas",
+            "horario": "16:40 as 18:20"
+        },
+        {
+            "id": "3",
+            "dia": "TERCA-FEIRA",
+            "materia": "Gestão e Governança de TI",
+            "carga-horaria": "60 Horas",
+            "horario": "18:00 as 20:00 / 20:20 as 22:00"
+        },
+        {
+            "id": "4",
+            "dia": "QUARTA-FEIRA",
+            "materia": "OPT B - Desenvolv. Distribuído na Internet",
+            "carga-horaria": "60 Horas",
+            "horario": "18:00 as 20:00 / 20:20 as 22:00"
+        },
+        {
+            "id": "5",
+            "dia": "QUINTA-FEIRA",
+            "materia": "Interface Homem Máquina",
+            "carga-horaria": "60 Horas",
+            "horario": "18:00 as 20:00 / 20:20 as 22:00"
+        },
+        {
+            "id": "6",
+            "dia": "SEXTA-FEIRA",
+            "materia": "Estágio Supervisionado",
+            "carga-horaria": "60 Horas",
+            "horario": "16:40 as 18:20"
+        },
+        {
+            "id": "7",
+            "dia": "SEXTA-FEIRA",
+            "materia": "Qualidade de Software",
+            "carga-horaria": "60 Horas",
+            "horario": "18:00 as 20:00 / 20:20 as 22:00"
+        }
+        
+    ]
+}

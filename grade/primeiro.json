@@ -1,0 +1,47 @@
+{
+    "grade": [
+        {
+            "id": "1",
+            "dia": "SEGUNDA-FEIRA",
+            "materia": "Inglês Instrumental",
+            "carga-horaria": "60 Horas",
+            "horario": "18:00 as 20:00 / 20:20 as 22:00"
+        },
+        {
+            "id": "2",
+            "dia": "TERCA-FEIRA",
+            "materia": "Matemática Discreta",
+            "carga-horaria": "60 Horas",
+            "horario": "18:00 as 20:00 / 20:20 as 22:00"
+        },
+        {
+            "id": "3",
+            "dia": "QUARTA-FEIRA",
+            "materia": "Algoritmos e Programação",
+            "carga-horaria": "60 Horas",
+            "horario": "18:00 as 20:00 / 20:20 as 22:00"
+        },
+        {
+            "id": "4",
+            "dia": "QUINTA-FEIRA",
+            "materia": "Introdução à Ciência da Computação",
+            "carga-horaria": "60 Horas",
+            "horario": "18:00 as 20:00 / 20:20 as 22:00"
+        },
+        {
+            "id": "5",
+            "dia": "SEXTA-FEIRA",
+            "materia": "Leitura e produção de gêneros Academicos",
+            "carga-horaria": "60 Horas",
+            "horario": "18:00 as 20:00 / 20:20 as 22:00"
+        },
+        {
+            "id": "6",
+            "dia": "SÁBADO",
+            "materia": "Fundamentos de Sistemas de Informação",
+            "carga-horaria": "60 Horas",
+            "horario": "18:00 as 20:00 / 20:20 as 22:00"
+        }
+        
+    ]
+}

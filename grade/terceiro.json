@@ -1,0 +1,54 @@
+{
+    "grade": [
+        {
+            "id": "1",
+            "dia": "SEGUNDA-FEIRA",
+            "materia": "Estruturas de Dados",
+            "carga-horaria": "60 Horas",
+            "horario": "18:00 as 20:00 / 20:20 as 22:00"
+        },
+        {
+            "id": "2",
+            "dia": "TERCA-FEIRA",
+            "materia": "Probabilidade e Estatística",
+            "carga-horaria": "60 Horas",
+            "horario": "18:00 as 20:00 / 20:20 as 22:00"
+        },
+        {
+            "id": "3",
+            "dia": "QUARTA-FEIRA",
+            "materia": "Sistemas Operacionais",
+            "carga-horaria": "60 Horas",
+            "horario": "18:00 as 20:00 / 20:20 as 22:00"
+        },
+        {
+            "id": "4",
+            "dia": "QUINTA-FEIRA",
+            "materia": "Direito e Legislação em Informática",
+            "carga-horaria": "60 Horas",
+            "horario": "16:40 as 18:20"
+        },
+        {
+            "id": "5",
+            "dia": "QUINTA-FEIRA",
+            "materia": "Organização, Sistemas e Métodos",
+            "carga-horaria": "60 Horas",
+            "horario": "18:00 as 20:00 / 20:20 as 22:00"
+        },
+        {
+            "id": "6",
+            "dia": "SEXTA-FEIRA",
+            "materia": "Direito e Legislação em Informática",
+            "carga-horaria": "60 Horas",
+            "horario": "16:40 as 18:20"
+        },
+        {
+            "id": "7",
+            "dia": "SEXTA-FEIRA",
+            "materia": "Linguagem de Programação 2",
+            "carga-horaria": "60 Horas",
+            "horario": "18:00 as 20:00 / 20:20 as 22:00"
+        }
+        
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "grade": [
+        {
+            "id": "1",
+            "dia": "SEGUNDA-FEIRA",
+            "materia": "Administração",
+            "carga-horaria": "60 Horas",
+            "horario": "16:40 as 18:20"
+        },
+        {
+            "id": "2",
+            "dia": "SEGUNDA-FEIRA",
+            "materia": "Linguagem de Programação 1",
+            "carga-horaria": "60 Horas",
+            "horario": "18:00 as 20:00 / 20:20 as 22:00"
+        },
+        {
+            "id": "3",
+            "dia": "TERCA-FEIRA",
+            "materia": "Arquitetura e Organização de Computadores",
+            "carga-horaria": "60 Horas",
+            "horario": "18:00 as 20:00 / 20:20 as 22:00"
+        },
+        {
+            "id": "4",
+            "dia": "QUARTA-FEIRA",
+            "materia": "Administração",
+            "carga-horaria": "60 Horas",
+            "horario": "16:40 as 18:20"
+        },
+        {
+            "id": "5",
+            "dia": "QUARTA-FEIRA",
+            "materia": "Calculo Dif. Aplicado a Computação",
+            "carga-horaria": "60 Horas",
+            "horario": "18:00 as 20:00 / 20:20 as 22:00"
+        },
+        {
+            "id": "6",
+            "dia": "QUINTA-FEIRA",
+            "materia": "Matemática Discreta 2",
+            "carga-horaria": "60 Horas",
+            "horario": "18:00 as 20:00 / 20:20 as 22:00"
+        },
+        {
+            "id": "7",
+            "dia": "SEXTA-FEIRA",
+            "materia": "Computador, Ética e Sociedade",
+            "carga-horaria": "60 Horas",
+            "horario": "18:00 as 20:00 / 20:20 as 22:00"
+        }
+        
+    ]
+}

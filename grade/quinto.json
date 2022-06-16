@@ -1,0 +1,47 @@
+{
+    "grade": [
+        {
+            "id": "1",
+            "dia": "SEGUNDA-FEIRA",
+            "materia": "Economia",
+            "carga-horaria": "60 Horas",
+            "horario": "18:00 as 20:00 / 20:20 as 22:00"
+        },
+        {
+            "id": "2",
+            "dia": "TERCA-FEIRA",
+            "materia": "Processo de Desenvolvimento de Software",
+            "carga-horaria": "60 Horas",
+            "horario": "18:00 as 20:00 / 20:20 as 22:00"
+        },
+        {
+            "id": "3",
+            "dia": "QUARTA-FEIRA",
+            "materia": "Complexidade de Algorítimos",
+            "carga-horaria": "60 Horas",
+            "horario": "18:00 as 20:00 / 20:20 as 22:00"
+        },
+        {
+            "id": "4",
+            "dia": "QUINTA-FEIRA",
+            "materia": "Programação para Web",
+            "carga-horaria": "60 Horas",
+            "horario": "18:00 as 20:00 / 20:20 as 22:00"
+        },
+        {
+            "id": "5",
+            "dia": "SEXTA-FEIRA",
+            "materia": "Projeto e Administração de Redes",
+            "carga-horaria": "60 Horas",
+            "horario": "18:00 as 20:00 / 20:20 as 22:00"
+        },
+        {
+            "id": "6",
+            "dia": "SÁBADO",
+            "materia": "Banco de Dados II",
+            "carga-horaria": "60 Horas",
+            "horario": "13:50 as 14:40 / 15:30 as 17:30"
+        }
+        
+    ]
+}

@@ -1,0 +1,67 @@
+flask
+aiohttp
+pandas
+
+def is_primeiro_semestre_alive():
+    alive = False
+
+    if acessar(PRIMEIRO_SEMESTRE_IS_ALIVE) == "yes":
+        alive = True
+    
+    return alive
+
+def is_segundo_semestre_alive():
+    alive = False
+
+    if acessar(SEGUNDO_SEMESTRE_IS_ALIVE) == "yes":
+        alive = True
+    
+    return alive
+
+def is_terceiro_semestre_alive():
+    alive = False
+
+    if acessar(TERCEIRO_SEMESTRE_IS_ALIVE) == "yes":
+        alive = True
+    
+    return alive
+
+def is_quarto_semestre_alive():
+    alive = False
+
+    if acessar(QUARTO_SEMESTRE_IS_ALIVE) == "yes":
+        alive = True
+    
+    return alive
+
+def is_quinto_semestre_alive():
+    alive = False
+
+    if acessar(QUINTO_SEMESTRE_IS_ALIVE) == "yes":
+        alive = True
+    
+    return alive
+
+def is_sexto_semestre_alive():
+    alive = False
+
+    if acessar(SEXTO_SEMESTRE_IS_ALIVE) == "yes":
+        alive = True
+    
+    return alive
+
+def is_setimo_semestre_alive():
+    alive = False
+
+    if acessar(SETIMO_SEMESTRE_IS_ALIVE) == "yes":
+        alive = True
+    
+    return alive
+
+def is_oitavo_semestre_alive():
+    alive = False
+
+    if acessar(OITAVO_SEMESTRE_IS_ALIVE) == "yes":
+        alive = True
+    
+    return alive

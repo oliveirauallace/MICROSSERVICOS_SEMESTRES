@@ -1,0 +1,47 @@
+{
+    "grade": [
+        {
+            "id": "1",
+            "dia": "SEGUNDA-FEIRA",
+            "materia": "Análise e Modelagem de Sistemas 1",
+            "carga-horaria": "60 Horas",
+            "horario": "18:00 as 20:00 / 20:20 as 22:00"
+        },
+        {
+            "id": "2",
+            "dia": "TERCA-FEIRA",
+            "materia": "Banco de Dados 1",
+            "carga-horaria": "60 Horas",
+            "horario": "18:00 as 20:00 / 20:20 as 22:00"
+        },
+        {
+            "id": "3",
+            "dia": "QUARTA-FEIRA",
+            "materia": "Metodologia da Pesquisa Científica",
+            "carga-horaria": "60 Horas",
+            "horario": "18:00 as 20:00 / 20:20 as 22:00"
+        },
+        {
+            "id": "4",
+            "dia": "QUINTA-FEIRA",
+            "materia": "Paradigmas de Linguagens de Programação",
+            "carga-horaria": "60 Horas",
+            "horario": "18:00 as 20:00 / 20:20 as 22:00"
+        },
+        {
+            "id": "5",
+            "dia": "SEXTA-FEIRA",
+            "materia": "Redes de Computadores 1",
+            "carga-horaria": "60 Horas",
+            "horario": "18:00 as 20:00 / 20:20 as 22:00"
+        },
+        {
+            "id": "6",
+            "dia": "SÁBADO",
+            "materia": "Empreendedorismo",
+            "carga-horaria": "60 Horas",
+            "horario": "13:50 as 14:40 / 15:30 as 17:30"
+        }
+        
+    ]
+}
